@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56bfd3eb-284a-4523-b4e5-e5dcdf585f49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/advent-of-code-2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-3/cmd/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-3/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-3/solver.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-3/solver_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-4/cmd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-4/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -30,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2Z1wjwyB8ZO25a1cgyq5IoG2vrQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,7 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultGoTemplateProperty": "Go File",
+    "DefaultGoTemplateProperty": "Go Application",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
@@ -63,10 +59,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\advent-of-code-2023\day-4" />
+      <recent name="C:\Projects\advent-of-code-2023" />
       <recent name="C:\Projects\advent-of-code-2023\day-3" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/mastorm/advent-of-code-2023/day-3/cmd">
+  <component name="RunManager" selected="Go Build.go build github.com/mastorm/advent-of-code-2023/day-4">
     <configuration name="go build github.com/mastorm/advent-of-code-2023/day-3/cmd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="advent-of-code-2023" />
       <working_directory value="$PROJECT_DIR$" />
@@ -74,6 +72,15 @@
       <package value="github.com/mastorm/advent-of-code-2023/day-3/cmd" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/day-3/cmd/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/mastorm/advent-of-code-2023/day-4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="advent-of-code-2023" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/mastorm/advent-of-code-2023/day-4" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day-4/cmd.go" />
       <method v="2" />
     </configuration>
     <configuration name="TestSolve in github.com/mastorm/advent-of-code-2023/day-3" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -90,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build github.com/mastorm/advent-of-code-2023/day-4" />
         <item itemvalue="Go Build.go build github.com/mastorm/advent-of-code-2023/day-3/cmd" />
         <item itemvalue="Go Test.TestSolve in github.com/mastorm/advent-of-code-2023/day-3" />
       </list>
